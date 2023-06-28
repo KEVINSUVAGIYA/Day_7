@@ -1,0 +1,7 @@
+body{
+    background-color: #EEF1FF;
+    text-align: center;
+}
+.input-div, .btn ,.answer{
+    width: 50%;
+}

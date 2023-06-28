@@ -1,0 +1,32 @@
+body{
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dnt{
+    margin-top: 2rem;
+    background-color: #E5E5E5;
+    width: 140px;
+    height: 70px;
+    border: 2px solid #1089FF;
+    border-radius: 4px;
+    color: #23374D;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dnt:hover{
+    background-color: #1089FF;
+    border: 2px solid #23374D;
+    color: #E5E5E5;
+}
+/* .red{
+    background-color: #F44336;
+} */
+/* @media (min-width: 768px) {
+    body{
+        background-color: #444555; 
+        justify-content: center;
+        align-items: center;
+    }
+} */
